@@ -34,7 +34,7 @@ Assets {
             Id: 17269315455490696598
           }
           AutoPlay: true
-          Volume: 1.5
+          Volume: 2
           Falloff: -1
           Radius: -1
         }
@@ -57,5 +57,5 @@ Assets {
       AssetId: "None"
     }
   }
-  SerializationVersion: 110
+  SerializationVersion: 111
 }

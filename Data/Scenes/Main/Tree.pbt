@@ -14106,6 +14106,7 @@ Objects {
         Value: "mc:euianchor:middlecenter"
       }
     }
+    IsHittable: true
     Button {
       Label: "Here, have an apple."
       FontColor {
@@ -14245,6 +14246,7 @@ Objects {
         Value: "mc:euianchor:middlecenter"
       }
     }
+    IsHittable: true
     Button {
       Label: "Are you hurt?"
       FontColor {
@@ -14384,6 +14386,7 @@ Objects {
         Value: "mc:euianchor:middlecenter"
       }
     }
+    IsHittable: true
     Button {
       Label: "Have you been working out?"
       FontColor {
@@ -14523,6 +14526,7 @@ Objects {
         Value: "mc:euianchor:middlecenter"
       }
     }
+    IsHittable: true
     Button {
       Label: "So, have you seen what\'s happening with those demons?"
       FontColor {
@@ -14662,6 +14666,7 @@ Objects {
         Value: "mc:euianchor:middlecenter"
       }
     }
+    IsHittable: true
     Button {
       Label: "I think I\'m gonna go check out the portal."
       FontColor {
@@ -14801,6 +14806,7 @@ Objects {
         Value: "mc:euianchor:middlecenter"
       }
     }
+    IsHittable: true
     Button {
       Label: "You look really nice today!"
       FontColor {
@@ -14940,6 +14946,7 @@ Objects {
         Value: "mc:euianchor:middlecenter"
       }
     }
+    IsHittable: true
     Button {
       Label: "Do you smell that?"
       FontColor {
@@ -15079,6 +15086,7 @@ Objects {
         Value: "mc:euianchor:middlecenter"
       }
     }
+    IsHittable: true
     Button {
       Label: "*Tell a dad joke*"
       FontColor {
@@ -15218,6 +15226,7 @@ Objects {
         Value: "mc:euianchor:middlecenter"
       }
     }
+    IsHittable: true
     Button {
       Label: "What\'s going on with that portal over there?"
       FontColor {
@@ -15357,6 +15366,7 @@ Objects {
         Value: "mc:euianchor:middlecenter"
       }
     }
+    IsHittable: true
     Button {
       Label: "Watch out, that demon is headed this way!"
       FontColor {
@@ -15496,6 +15506,7 @@ Objects {
         Value: "mc:euianchor:middlecenter"
       }
     }
+    IsHittable: true
     Button {
       Label: "Nice work back there..."
       FontColor {
@@ -15635,6 +15646,7 @@ Objects {
         Value: "mc:euianchor:middlecenter"
       }
     }
+    IsHittable: true
     Button {
       Label: "So, two demons walk through a portal..."
       FontColor {
@@ -15825,6 +15837,7 @@ Objects {
         Value: "mc:euianchor:middlecenter"
       }
     }
+    IsHittable: true
     Button {
       FontColor {
         A: 1
@@ -16088,6 +16101,7 @@ Objects {
         Value: "mc:euianchor:middlecenter"
       }
     }
+    IsHittable: true
     Button {
       FontColor {
         A: 1
@@ -16934,6 +16948,7 @@ Objects {
         Value: "mc:euianchor:middlecenter"
       }
     }
+    IsHittable: true
     Button {
       Label: "Talk to Yasmine"
       FontColor {

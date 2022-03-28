@@ -2,7 +2,7 @@ Assets {
   Id: 3559326959743948638
   Name: "DemonSkin"
   PlatformAssetType: 13
-  SerializationVersion: 110
+  SerializationVersion: 111
   CustomMaterialAsset {
     BaseMaterialId: 6815570903821760115
     ParameterOverrides {
