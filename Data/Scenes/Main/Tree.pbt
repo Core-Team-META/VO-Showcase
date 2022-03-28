@@ -12417,7 +12417,6 @@ Objects {
     Volume: 1
     Falloff: -1
     Radius: -1
-    EnableOcclusion: true
     IsSpatializationEnabled: true
     IsAttenuationEnabled: true
     StartDelayMin: 1.5
@@ -12462,7 +12461,6 @@ Objects {
     Volume: 1
     Falloff: -1
     Radius: -1
-    EnableOcclusion: true
     IsSpatializationEnabled: true
     IsAttenuationEnabled: true
     StartDelayMin: 0.3
@@ -12544,7 +12542,6 @@ Objects {
     Volume: 1
     Falloff: -1
     Radius: -1
-    EnableOcclusion: true
     IsSpatializationEnabled: true
     IsAttenuationEnabled: true
     StartDelayMin: 1.5
@@ -12589,7 +12586,6 @@ Objects {
     Volume: 1
     Falloff: -1
     Radius: -1
-    EnableOcclusion: true
     IsSpatializationEnabled: true
     IsAttenuationEnabled: true
     StartDelayMin: 0.3
@@ -14635,7 +14631,7 @@ Objects {
     }
     Overrides {
       Name: "cs:NPC_Response"
-      String: "Alright! Bet"
+      String: "Alright! Better you than me... I mean, good luck!"
     }
     Overrides {
       Name: "cs:VO_Yasmine:isrep"
