@@ -1,10 +1,10 @@
 Assets {
-  Id: 3839832065835102674
-  Name: "Custom Brush_1"
+  Id: 10910787318083169179
+  Name: "Custom Brush_2"
   PlatformAssetType: 34
   SerializationVersion: 111
   CustomBrushAsset {
-    ImageId: "371180439348491c8d3fc5ed6f8dd4ad"
+    ImageId: "d43da118074d49e29cc78b806cb1ca58"
     CreatorId: "7cdc015329324499beb38b7a1a01ee33"
   }
 }
