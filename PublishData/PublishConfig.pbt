@@ -5,6 +5,7 @@ Description: "testing out vocal efforts"
 Tags: "Experimental"
 Tags: "Multiplayer"
 ScreenshotPaths: "C:/Users/zachs/OneDrive/Documents/My Games/CORE_Dev/Saved/Maps/VO Showcase/Screenshots/Screenshot0001.png"
+ReleaseNotes: "swapped button click sound"
 OwnerId: "7cdc015329324499beb38b7a1a01ee33"
 SerializationVersion: 3
 PublishedState: Public

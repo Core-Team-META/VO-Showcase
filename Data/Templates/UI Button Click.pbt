@@ -31,10 +31,10 @@ Assets {
         }
         AudioInstance {
           AudioAsset {
-            Id: 8357692883771030592
+            Id: 11941908941676504590
           }
           AutoPlay: true
-          Volume: 1
+          Volume: 0.6
           Falloff: -1
           Radius: -1
         }
@@ -44,12 +44,12 @@ Assets {
       }
     }
     Assets {
-      Id: 8357692883771030592
-      Name: "Crispy Click 01 SFX"
+      Id: 11941908941676504590
+      Name: "Clunky Click 01 SFX"
       PlatformAssetType: 7
       PrimaryAsset {
         AssetType: "AudioAssetRef"
-        AssetId: "sfx_ui_crispy_click_01_Cue_ref"
+        AssetId: "sfx_ui_chunky_click_01_Cue_ref"
       }
     }
     PrimaryAssetId {
